@@ -1,0 +1,29 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/myimg.jpg"
+  links:
+    - icon: folder-symlink
+      text: SASS Website
+      href: https://case.edu/socialwork/node/10681
+    - icon: envelope
+      text: Email
+      href: "mailto:jxs1730@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+Hi, this is Jiayi Sun. I am a third-year Ph.D. student and an adjunct faculty in Social Welfare at the Jack, Joseph, and Morton Mandel School of Applied Social Sciences at Case Western Reserve University. 
+
+I received my MSW from the School of Social Work at the University of Pittsburgh in 2020, and bachelor's degree in social work from West Virginia University in 2019. Before beginning my MSW studies, I spent a month as an international volunteer in Nepal, that experience strengthened my research interests in poverty-related issues. I am interested in social issues affecting vulnerable populations, especially people experiencing homelessness, as well as the health inequalities they face. Currently, I am focusing on exploring the design and application of machine learning in social science, to see the potential of emerging approaches in research and social work practice. I am conducting research at the Center for Poverty and Community Development at Case Western Reserve University. Please visit the website of the [Center for Poverty and Community Development](https://case.edu/socialwork/povertycenter/) if you are interested in the wonderful projects we are working on. 
+
+I also teach research methodology and nonprofit organization management courses, and serve as a TA for policy courses.
+
+In my spare time, I enjoy doing jigsaw puzzles and biking.
+
+Please feel free to [contact me](mailto:jxs1730@case.edu) if you have any questions or would like to discuss potential collaboration. 
+
