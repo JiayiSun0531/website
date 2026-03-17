@@ -16,11 +16,11 @@ website:
     # your sub-pages
     left:
       - text: "Research and Teach"
-        href: Research and Teach/index.qmd
+        href: Research and Teach/index.html
       - text: "CV"
-        href: cv/index.qmd
+        href: cv/index.html
       - text: "Blog"
-        href: Blog/index2.qmd
+        href: Blog/index2.html
     
     # your social media handles
     right:
