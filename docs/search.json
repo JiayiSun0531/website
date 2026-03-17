@@ -40,5 +40,47 @@
     "title": "Photography",
     "section": "",
     "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "Research and Teach/index.html",
+    "href": "Research and Teach/index.html",
+    "title": "Jiayi Sun",
+    "section": "",
+    "text": "Richter, F. G.-C., Arrojo, S., Sun, J., Fischer, R. L., & Stacklin, R. (2026). Enriching data analytics with experiential knowledge to inform community interventions for more equitable infant health. Journal of Integrated Global STEM. https://doi.org/10.1515/jigs-2025-0011\nFischer, R. L., Richter, F. G. C., Prince, D., Ray-Novak, M., Henderson, M., Steh, S., Andre, J., Arrojo, S., Sun, J., Hajski, A., & Ashley, M. (2024). Leveraging integrated data to examine youth homelessness (Report). U.S. Department of Housing and Urban Development. https://case.edu/socialwork/povertycenter/sites/default/files/202501/CWRU%20HUD%20Final%20Report%2010-31-2024.pdf"
+  },
+  {
+    "objectID": "Research and Teach/index.html#publications",
+    "href": "Research and Teach/index.html#publications",
+    "title": "Jiayi Sun",
+    "section": "",
+    "text": "Richter, F. G.-C., Arrojo, S., Sun, J., Fischer, R. L., & Stacklin, R. (2026). Enriching data analytics with experiential knowledge to inform community interventions for more equitable infant health. Journal of Integrated Global STEM. https://doi.org/10.1515/jigs-2025-0011\nFischer, R. L., Richter, F. G. C., Prince, D., Ray-Novak, M., Henderson, M., Steh, S., Andre, J., Arrojo, S., Sun, J., Hajski, A., & Ashley, M. (2024). Leveraging integrated data to examine youth homelessness (Report). U.S. Department of Housing and Urban Development. https://case.edu/socialwork/povertycenter/sites/default/files/202501/CWRU%20HUD%20Final%20Report%2010-31-2024.pdf"
+  },
+  {
+    "objectID": "Research and Teach/index.html#why-i-teach",
+    "href": "Research and Teach/index.html#why-i-teach",
+    "title": "Jiayi Sun",
+    "section": "Why I Teach",
+    "text": "Why I Teach\nI am passionate about teaching because it allows me to share the knowledge I’ve gained and to learn from students’ diverse perspectives. I hope to prepare future practitioners to make a positive impact."
+  },
+  {
+    "objectID": "Research and Teach/index.html#courses-i-teach",
+    "href": "Research and Teach/index.html#courses-i-teach",
+    "title": "Jiayi Sun",
+    "section": "Courses I Teach",
+    "text": "Courses I Teach\nSASS 528 Evidence-informed Practice\nSASS 410 Nonprofit Databased Decision-Making\nSASS 561 Community Practice Policy: Policy Analysis and Advocacy\nSASS 540 Integrated Health and Wellness Specialized Policy Course"
+  },
+  {
+    "objectID": "Blog/index.html",
+    "href": "Blog/index.html",
+    "title": "Jiayi Sun",
+    "section": "",
+    "text": "I keep rethinking the meaning of conducting rigorous and meaningful research in the social sciences after reading How to Be a Modern Scientist by Jeff Leek (2016).\nOne of the main takeaways is the importance of reproducibility in modern social science. Almost all of the data I use are private administrative data. When preparing manuscripts, the common approach is to include a standardized statement under “Data Availability” noting that “we are unable to provide the data used in this work because it contains confidential information. However, this does not prevent us from conveying the main purpose and key contributions of the paper.” While doing this, I sometimes felt that it was a bit awkward, but it seemed that there was no other solution in this situation.\nLeek, however, mentioned two potential strategies in the book: defining a process for accessing the data and providing a mechanism for verification (p. 26), and I think these strategies are feasible. For private data, we could provide data access instructions, such as the application process, data use agreements, and conditions for data use, so that qualified external researchers can legally obtain the data. In addition, we could provide code and analysis scripts so that external researchers can verify the results. Even though these practices cannot be implemented in a journal article, we can still do this in a blog or on GitHub, which is uncommon in social science research.\nReference: Leek, J. (2016). How to be a modern scientist. Leanpub."
+  },
+  {
+    "objectID": "Blog/index.html#rethinking-what-it-means-to-do-good-science-in-social-science-research",
+    "href": "Blog/index.html#rethinking-what-it-means-to-do-good-science-in-social-science-research",
+    "title": "Jiayi Sun",
+    "section": "",
+    "text": "I keep rethinking the meaning of conducting rigorous and meaningful research in the social sciences after reading How to Be a Modern Scientist by Jeff Leek (2016).\nOne of the main takeaways is the importance of reproducibility in modern social science. Almost all of the data I use are private administrative data. When preparing manuscripts, the common approach is to include a standardized statement under “Data Availability” noting that “we are unable to provide the data used in this work because it contains confidential information. However, this does not prevent us from conveying the main purpose and key contributions of the paper.” While doing this, I sometimes felt that it was a bit awkward, but it seemed that there was no other solution in this situation.\nLeek, however, mentioned two potential strategies in the book: defining a process for accessing the data and providing a mechanism for verification (p. 26), and I think these strategies are feasible. For private data, we could provide data access instructions, such as the application process, data use agreements, and conditions for data use, so that qualified external researchers can legally obtain the data. In addition, we could provide code and analysis scripts so that external researchers can verify the results. Even though these practices cannot be implemented in a journal article, we can still do this in a blog or on GitHub, which is uncommon in social science research.\nReference: Leek, J. (2016). How to be a modern scientist. Leanpub."
   }
 ]
