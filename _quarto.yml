@@ -16,9 +16,9 @@ website:
     # your sub-pages
     left:
       - text: "Research and Teach"
-        href: Research and Teach/index.html
+        href: Research and Teach/index.qmd
       - text: "CV"
-        href: cv/index.html
+        href: JIAYI SUN-CV-March 2026/index.html
       - text: "Blog"
         href: Blog/index2.html
     
