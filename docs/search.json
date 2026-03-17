@@ -1,47 +1,5 @@
 [
   {
-    "objectID": "teaching/index.html",
-    "href": "teaching/index.html",
-    "title": "Jiayi Sun",
-    "section": "",
-    "text": "I am passionate about teaching because it allows me to share the knowledge I’ve gained and to learn from students’ diverse perspectives. I hope to prepare future practitioners to make a positive impact."
-  },
-  {
-    "objectID": "teaching/index.html#why-i-teach",
-    "href": "teaching/index.html#why-i-teach",
-    "title": "Jiayi Sun",
-    "section": "",
-    "text": "I am passionate about teaching because it allows me to share the knowledge I’ve gained and to learn from students’ diverse perspectives. I hope to prepare future practitioners to make a positive impact."
-  },
-  {
-    "objectID": "teaching/index.html#courses-i-teach",
-    "href": "teaching/index.html#courses-i-teach",
-    "title": "Jiayi Sun",
-    "section": "Courses I Teach",
-    "text": "Courses I Teach\nSASS 528 Evidence-informed Practice\nSASS 410 Nonprofit Databased Decision-Making\nSASS 561 Community Practice Policy: Policy Analysis and Advocacy\nSASS 540 Integrated Health and Wellness Specialized Policy Course"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to my website!",
-    "section": "",
-    "text": "SASS Website\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nHi, this is Jiayi Sun. I am a third-year Ph.D. student and an adjunct faculty in Social Welfare at the Jack, Joseph, and Morton Mandel School of Applied Social Sciences at Case Western Reserve University.\nI received my MSW from the School of Social Work at the University of Pittsburgh in 2020, and bachelor’s degree in social work from West Virginia University in 2019. Before beginning my MSW studies, I spent a month as an international volunteer in Nepal, that experience strengthened my research interests in poverty-related issues. I am interested in social issues affecting vulnerable populations, especially people experiencing homelessness, as well as the health inequalities they face. Currently, I am focusing on exploring the design and application of machine learning in social science, to see the potential of emerging approaches in research and social work practice. I am conducting research at the Center for Poverty and Community Development at Case Western Reserve University. Please visit the website of the Center for Poverty and Community Development if you are interested in the wonderful projects we are working on.\nI also teach research methodology and nonprofit organization management courses, and serve as a TA for policy courses.\nIn my spare time, I enjoy doing jigsaw puzzles and biking.\nPlease feel free to contact me if you have any questions or would like to discuss potential collaboration."
-  },
-  {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum vitae",
-    "section": "",
-    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
-  },
-  {
-    "objectID": "photography/index.html",
-    "href": "photography/index.html",
-    "title": "Photography",
-    "section": "",
-    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
-  },
-  {
     "objectID": "Research and Teach/index.html",
     "href": "Research and Teach/index.html",
     "title": "Jiayi Sun",
@@ -70,17 +28,38 @@
     "text": "Courses I Teach\nSASS 528 Evidence-informed Practice\nSASS 410 Nonprofit Databased Decision-Making\nSASS 561 Community Practice Policy: Policy Analysis and Advocacy\nSASS 540 Integrated Health and Wellness Specialized Policy Course"
   },
   {
-    "objectID": "Blog/index.html",
-    "href": "Blog/index.html",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my website!",
+    "section": "",
+    "text": "SASS Website\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nHi, this is Jiayi Sun. I am a third-year Ph.D. student and an adjunct faculty in Social Welfare at the Jack, Joseph, and Morton Mandel School of Applied Social Sciences at Case Western Reserve University.\nI received my MSW from the School of Social Work at the University of Pittsburgh in 2020, and bachelor’s degree in social work from West Virginia University in 2019. Before beginning my MSW studies, I spent a month as an international volunteer in Nepal, that experience strengthened my research interests in poverty-related issues. I am interested in social issues affecting vulnerable populations, especially people experiencing homelessness, as well as the health inequalities they face. Currently, I am focusing on exploring the design and application of machine learning in social science, to see the potential of emerging approaches in research and social work practice. I am conducting research at the Center for Poverty and Community Development at Case Western Reserve University. Please visit the website of the Center for Poverty and Community Development if you are interested in the wonderful projects we are working on.\nI also teach research methodology and nonprofit organization management courses, and serve as a TA for policy courses.\nIn my spare time, I enjoy doing jigsaw puzzles and biking.\nPlease feel free to contact me if you have any questions or would like to discuss potential collaboration."
+  },
+  {
+    "objectID": "Blog/index2.html",
+    "href": "Blog/index2.html",
     "title": "Jiayi Sun",
     "section": "",
     "text": "I keep rethinking the meaning of conducting rigorous and meaningful research in the social sciences after reading How to Be a Modern Scientist by Jeff Leek (2016).\nOne of the main takeaways is the importance of reproducibility in modern social science. Almost all of the data I use are private administrative data. When preparing manuscripts, the common approach is to include a standardized statement under “Data Availability” noting that “we are unable to provide the data used in this work because it contains confidential information. However, this does not prevent us from conveying the main purpose and key contributions of the paper.” While doing this, I sometimes felt that it was a bit awkward, but it seemed that there was no other solution in this situation.\nLeek, however, mentioned two potential strategies in the book: defining a process for accessing the data and providing a mechanism for verification (p. 26), and I think these strategies are feasible. For private data, we could provide data access instructions, such as the application process, data use agreements, and conditions for data use, so that qualified external researchers can legally obtain the data. In addition, we could provide code and analysis scripts so that external researchers can verify the results. Even though these practices cannot be implemented in a journal article, we can still do this in a blog or on GitHub, which is uncommon in social science research.\nReference: Leek, J. (2016). How to be a modern scientist. Leanpub."
   },
   {
-    "objectID": "Blog/index.html#rethinking-what-it-means-to-do-good-science-in-social-science-research",
-    "href": "Blog/index.html#rethinking-what-it-means-to-do-good-science-in-social-science-research",
+    "objectID": "Blog/index2.html#rethinking-what-it-means-to-do-good-science-in-social-science-research",
+    "href": "Blog/index2.html#rethinking-what-it-means-to-do-good-science-in-social-science-research",
     "title": "Jiayi Sun",
     "section": "",
     "text": "I keep rethinking the meaning of conducting rigorous and meaningful research in the social sciences after reading How to Be a Modern Scientist by Jeff Leek (2016).\nOne of the main takeaways is the importance of reproducibility in modern social science. Almost all of the data I use are private administrative data. When preparing manuscripts, the common approach is to include a standardized statement under “Data Availability” noting that “we are unable to provide the data used in this work because it contains confidential information. However, this does not prevent us from conveying the main purpose and key contributions of the paper.” While doing this, I sometimes felt that it was a bit awkward, but it seemed that there was no other solution in this situation.\nLeek, however, mentioned two potential strategies in the book: defining a process for accessing the data and providing a mechanism for verification (p. 26), and I think these strategies are feasible. For private data, we could provide data access instructions, such as the application process, data use agreements, and conditions for data use, so that qualified external researchers can legally obtain the data. In addition, we could provide code and analysis scripts so that external researchers can verify the results. Even though these practices cannot be implemented in a journal article, we can still do this in a blog or on GitHub, which is uncommon in social science research.\nReference: Leek, J. (2016). How to be a modern scientist. Leanpub."
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "photography/index.html",
+    "href": "photography/index.html",
+    "title": "Photography",
+    "section": "",
+    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
   }
 ]
