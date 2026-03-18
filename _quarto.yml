@@ -15,7 +15,7 @@ website:
     
     # your sub-pages
     left:
-      - text: "Research and Teach"
+      - text: "Research and Teaching"
         href: Research and Teach/index.qmd
       - text: "CV"
         href: cv/index.html
